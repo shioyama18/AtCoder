@@ -12,4 +12,3 @@ for a, b in students:
             min_dist = distance
             ans = i + 1
     print(ans)
-
